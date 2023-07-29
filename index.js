@@ -24,3 +24,11 @@ function Multiplicar(num1, num2) {
 
 var resultadoMultiplicacao = Multiplicar(numero1, numero2)
 alert ("O resultado da multiplicacao é: " + resultadoMultiplicacao)
+
+function Dividir(num1, num2) {
+    var divisao = num1 / num2
+    return divisao
+}
+
+var resultadoDivisão = Dividir(numero1, numero2)
+alert("O resultado da divisão é: " + resultadoDivisão)
