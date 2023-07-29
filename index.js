@@ -16,3 +16,11 @@ function Subtrair(num1, num2) {
 
 var resultadoSubtracao = Subtrair(numero1, numero2)
 alert ("O resultado da subtração é: "+ resultadoSubtracao)
+
+function Multiplicar(num1, num2) {
+    var multiplicacao = num1 * num2
+    return multiplicacao
+}
+
+var resultadoMultiplicacao = Multiplicar(numero1, numero2)
+alert ("O resultado da multiplicacao é: " + resultadoMultiplicacao)
