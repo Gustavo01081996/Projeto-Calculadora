@@ -8,3 +8,11 @@ function Somar(num1, num2) {
 
 var resultadoSoma = Somar(numero1, numero2)
 alert("O resultado da soma é: " + resultadoSoma)
+
+function Subtrair(num1, num2) {
+    var subtracao = num1 - num2
+    return subtracao
+}
+
+var resultadoSubtracao = Subtrair(numero1, numero2)
+alert ("O resultado da subtração é: "+ resultadoSubtracao)
